@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/115606971/196098281-8d1455a3-a637-4573-ad9a-2103473e7fd3.png)
 
+# University Admit Eligibility Predictor
 # IBM-Project-48277-1660806222
-#University Admit Eligibility Predictor
 
 # Team Members: PRASANTH B(TL), MOGANA KRISHNAN R, PRAVEEN KUMAR C, VINO S.U
 # Abstract:
