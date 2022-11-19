@@ -22,3 +22,12 @@ Build a web application using the Flask framework.
 
 # Domain:
 Applied Data Science
+
+# IBM-Project-48277-1660806222
+University Admit Eligibility Predictor (Click the thumbnail to access Demo video)
+
+<a href="https://youtu.be/xwWHBKK0Pb8" title="University Admit Eligibility Predictor (PNT2022TMID37882)-IBM Project Demo Link">
+  <p align="center">
+    <img width="75%" src="https://img.youtube.com/vi/xwWHBKK0Pb8/maxresdefault.jpg" alt="University Admit Eligibility Predictor (PNT2022TMID37882)-IBM Project Demo Thumbnail"/>
+  </p>
+</a>
